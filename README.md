@@ -6,12 +6,13 @@ A gateway into the world of micro services
 
     RabbitMQ
 
-
-### Documentation
+### Installation
     
-    Swagger
-      https://www.npmjs.com/package/swagger-ui-express
+    brew install rabbitmq
 
+### Libraries
+   
+    npm install amqplib
 
 ### Testing
 
