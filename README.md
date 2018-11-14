@@ -2,6 +2,10 @@
 
 A gateway into the world of micro services
 
+### Messaging Bus
+
+    RabbitMQ
+
 
 ### Documentation
     
