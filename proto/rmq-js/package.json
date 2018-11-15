@@ -12,5 +12,8 @@
     "js"
   ],
   "author": "ssahu",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.2"
+  }
 }
